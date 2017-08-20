@@ -1,0 +1,10 @@
+D:\OOAD\DoAn\QuanLyPhongKham\Model\bin\Debug\Model.dll.config
+D:\OOAD\DoAn\QuanLyPhongKham\Model\bin\Debug\Model.dll
+D:\OOAD\DoAn\QuanLyPhongKham\Model\bin\Debug\Model.pdb
+D:\OOAD\DoAn\QuanLyPhongKham\Model\bin\Debug\EntityFramework.dll
+D:\OOAD\DoAn\QuanLyPhongKham\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\OOAD\DoAn\QuanLyPhongKham\Model\bin\Debug\EntityFramework.xml
+D:\OOAD\DoAn\QuanLyPhongKham\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\OOAD\DoAn\QuanLyPhongKham\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\OOAD\DoAn\QuanLyPhongKham\Model\obj\Debug\Model.dll
+D:\OOAD\DoAn\QuanLyPhongKham\Model\obj\Debug\Model.pdb
